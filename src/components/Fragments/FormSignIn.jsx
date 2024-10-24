@@ -9,9 +9,6 @@ const FormSignIn = () => {
           <div className="mb-6">
             <LabeledInput/>
           </div>
-          <div className="mb-6">
-            <LabeledInput/>
-          </div>
           <div className="mb-3">
             <CheckBox/>
           </div>

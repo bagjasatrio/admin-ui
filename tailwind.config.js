@@ -25,7 +25,7 @@ export default {
           "green": "#E73D1C",
           "red": "#4DAF6E"
         } 
-      },objectPosition
+      },
     },
   },
   plugins: [],

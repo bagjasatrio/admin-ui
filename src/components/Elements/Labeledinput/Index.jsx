@@ -1,15 +1,14 @@
 import Input from "./Input";
 import Label from "./Label";
+import React from 'react';
 
-import React from 'react'
-
-const Index = () => {
+const LabeledInput = () => {
   return (
     <>
-    <Label />
-    <Input />
+      <Label />
+      <Input />
     </>
-  )
-}
+  );
+};
 
 export default LabeledInput;
